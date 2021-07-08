@@ -1,0 +1,7 @@
+C:\Users\UZI\source\repos\get installed programs information\get installed programs information\bin\Debug\get installed programs information.exe.config
+C:\Users\UZI\source\repos\get installed programs information\get installed programs information\bin\Debug\get installed programs information.exe
+C:\Users\UZI\source\repos\get installed programs information\get installed programs information\bin\Debug\get installed programs information.pdb
+C:\Users\UZI\source\repos\get installed programs information\get installed programs information\obj\Debug\get installed programs information.csprojAssemblyReference.cache
+C:\Users\UZI\source\repos\get installed programs information\get installed programs information\obj\Debug\get installed programs information.csproj.CoreCompileInputs.cache
+C:\Users\UZI\source\repos\get installed programs information\get installed programs information\obj\Debug\get installed programs information.exe
+C:\Users\UZI\source\repos\get installed programs information\get installed programs information\obj\Debug\get installed programs information.pdb
